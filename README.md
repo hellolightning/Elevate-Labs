@@ -28,14 +28,14 @@ tcp.flags.syn == 1 && tcp.flags.ack == 0
 
 🧭 Steps Performed:
 
-Identified the IP of Host device and local IP address range (e.g., 192.168.1.0/24).
+1. Identified the IP of Host device and local IP address range (e.g., 192.168.1.0/24).
 
 
 ![Open Ports](https://github.com/user-attachments/assets/865058a8-7477-4efd-9047-05760ba0b619)
 
-Scanned live hosts with nmap to find open ports.
+2. Scanned live hosts with nmap to find open ports.
 
-Saved scan output to a text file and also captured and inspect traffic with Wireshark.
+3. Saved scan output to a text file and also captured and inspect traffic with Wireshark.
 
 
 ![Nmap Scan Output - Open Ports](https://github.com/user-attachments/assets/9ae95f2b-e8e6-4f1d-b713-7deffdcda624)

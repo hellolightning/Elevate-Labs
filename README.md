@@ -53,6 +53,11 @@ The sample phishing email used in this task was downloaded from the following op
 
 # 📸 Screenshots
 
+Received Mail:
+
+![Mail](https://github.com/user-attachments/assets/c9deeee1-06e0-445d-a9a3-e7ee3ce59560)
+
+
 Generated report by MXheaderanaalyser: 
 
 

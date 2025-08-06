@@ -42,13 +42,17 @@ The sample phishing email used in this task was downloaded from the following op
 
 # Steps Taken
 
-Downloaded a sample phishing email (.eml file) from an Opensource GitHub repository.
-
-Opened the email using Thunderbird on Kali Linux.
-
-Copied the email header from Thunderbird.
-
-Analyzed the header using MXToolbox Header Analyzer.
+1. Downloaded `sample-100.eml` from an open-source repository.  
+2. Opened the sample email in Thunderbird on Kali Linux.  
+3. Copied the full email header from Thunderbird.  
+4. Submitted the header to MXToolbox’s header analyzer.  
+5. Examined the following header fields and indicators:
+   - **From**, **Reply-To**, **Return-Path**  
+   - SPF record status  
+   - Subject line and language used  
+   - Date/time information  
+6. Identified and summarized all indicators of phishing.  
+7. Captured screenshots of the header analysis report for documentation.
 
 # 🔎Header Analysis
 

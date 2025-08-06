@@ -1,4 +1,4 @@
-# Phishing Email Analysis Report# Elevate-Labs
+# Phishing Email Analysis Report
 
 # 🔍 Task Objectives
 

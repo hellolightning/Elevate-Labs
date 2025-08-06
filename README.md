@@ -2,7 +2,7 @@
 
 # 🔍 Task Objectives
 
-Obtain a real phishing‑style email sample and analyze its sender details, headers, links, language, and formatting to identify and summarize key phishing indicators.
+Obtain a real phishing‑style email sample and analyze it to identify key indicators of phishing, including spoofed sender details, suspicious links, header discrepancies, and manipulative language tactics.
 
 # 🧪 Tools Used
 

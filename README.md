@@ -27,13 +27,20 @@ Online Email Header Analyzer (mxtoolbox)
 
 
 
-# 📥 Source of Sample Phishing Email
+# Source of Sample Phishing Email
 The sample phishing email used in this task was downloaded from the following open-source repository:
 
 🔗[https://github.com/rf-peixoto/phishing_pot] (Github Sample Repository)
 
+- Basic Information
 
-# Summary of Steps Taken
+| Field  | Value |
+| ------------- | ------------- |
+| File Name  | sample-100.eml  |
+| Data Analyzed | 2025-08-06  |
+
+
+# Steps Taken
 
 Downloaded a sample phishing email (.eml file) from an Opensource GitHub repository.
 
@@ -55,15 +62,24 @@ Analyzed the header using MXToolbox Header Analyzer.
 | Subject | 🔋 Zonnepanelen voor een goede prijs  |
 | Date | Thu, 3 Nov 2022 04:56:15 +0000|
 
+# 📸 Screenshots
 
-# Phishing Traits Identified
+Generated report by MXheaderanaalyser: 
 
-Spoofed sender email address (support@micros0ft.com)
 
-External fake domain used in URL
+![ss1](https://github.com/user-attachments/assets/1c305ef6-6f52-40b1-b24d-615f0ec80876)
 
-Urgent action language to create panic
 
-Spelling inconsistency (e.g., "Micros0ft")
 
-Grammar mistakes and unnatural phrasing
+![ss2](https://github.com/user-attachments/assets/754659d1-3e92-4e03-aec7-27af3825b3a4)
+
+
+
+# Recommendation:
+Do not interact with the similar mail. Mark it as phishing and report it to your IT/security team.
+
+# ⚠️ Note:
+
+This project is intended for educational and ethical use only. 
+
+This analysis is for educational purposes only. No malicious activity is performed or encouraged.

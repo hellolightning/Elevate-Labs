@@ -2,22 +2,7 @@
 
 # 🔍 Task Objectives
 
-Obtain and analyze a sample phishing email
-
-Identify spoofed sender details
-
-Inspect email headers using tools
-
-Detect suspicious links or file attachments
-
-Recognize urgent or threatening language
-
-Check for URL mismatches
-
-Spot spelling/grammar issues
-
-Summarize all phishing indicators
-
+Obtain a real phishing‑style email sample and analyze its sender details, headers, links, language, and formatting to identify and summarize key phishing indicators.
 
 # 🧪 Tools Used
 

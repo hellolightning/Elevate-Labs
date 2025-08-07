@@ -1,6 +1,6 @@
 # Basic Vulnerabilty Scan on Local network
 
-# 🎯 Objectives
+## 🎯 Objectives
 
  . Perform a comprehensive vulnerability scan on a local system
  
@@ -10,15 +10,15 @@
  
  . Demonstrate practical cybersecurity assessment skills and Gain hands-on experience in identifying vulnerabilities using OpenVAS or Nessus Essentials.
 
-# 🛠️ Tools Used
+## 🛠️ Tools Used
 
 Tenable Nessus Essentials: Primary vulnerability scanner
 
 Kali Linux: Target system for vulnerability assessment
 
-# Steps
+## Steps
 
-Phase 1: Environment Setup
+### Phase 1: Environment Setup
 
 Installed Nessus Essentials on assessment system
 
@@ -27,7 +27,7 @@ Configured scan target (192.168.x.x - Kali Linux)
 Verified network connectivity and service accessibility
 
 
-Phase 2: Vulnerability Scanning
+### Phase 2: Vulnerability Scanning
 
 Executed comprehensive vulnerability scan using Nessus
 
@@ -38,7 +38,7 @@ Performed full system assessment (30-60 minute duration)
 Generated detailed vulnerability report
 
 
-Phase 3: Analysis and Documentation
+### Phase 3: Analysis and Documentation
 
 Analyzed scan results for critical vulnerabilities
 
@@ -48,11 +48,27 @@ Researched remediation strategies
 
 Documented comprehensive assessment report
 
-# Screenshot
+## Screenshot
 
-# 
+Configurring ip address for vulnerability scanning
 
-# 📚 Learning Outcomes
+![Configurring IP](https://github.com/user-attachments/assets/f18116e0-018d-4ec7-aef9-b9be6c87f718)
+
+
+Running vulnerability scan in Nessus Essential tool &
+
+Result dashboard in Neesus Essential
+
+
+![Hosts](https://github.com/user-attachments/assets/bfc1a907-b177-4d2d-b52a-736d5e5c4c7f)
+
+![Vulnerabilities](https://github.com/user-attachments/assets/733f6897-1cc2-4e3e-965e-ea7f5bd58475)
+
+![Remediations](https://github.com/user-attachments/assets/880a8613-44a2-4cc1-bf53-1e6bd7b3b393)
+
+
+
+## 📚 Learning Outcomes
 
 Vulnerability Assessment: Practical experience with industry-standard scanning tools
 
@@ -66,7 +82,7 @@ Gained exposure to CVSS scoring.
 
 Understood risk prioritization based on severity.
 
-# 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Integration with automated remediation tools
 

@@ -1,6 +1,7 @@
 
 # Top Vulnerabilities from Localhost Scan
 
+
 This document summarizes the most critical and high-severity vulnerabilities identified during the Nessus scan performed on localhost.
 
 ---

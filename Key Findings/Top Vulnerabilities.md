@@ -3,6 +3,7 @@
 
 This document summarizes the most critical and high-severity vulnerabilities identified during the Nessus scan performed on localhost.
 
+---
 
 🔴1. **Node.js Multiple Vulnerabilities** (CVE-2023-46809, CVE-2024-21890, CVE-2024-21891, CVE-2024-21892, CVE-2024-21896, CVE-2024-22017, CVE-2024-22019)
  

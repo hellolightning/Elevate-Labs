@@ -66,7 +66,13 @@ Result dashboard in Neesus Essential
 
 ![Remediations](https://github.com/user-attachments/assets/880a8613-44a2-4cc1-bf53-1e6bd7b3b393)
 
+## Key findings
 
+Top Vulnerabilities from Localhost Scan
+
+(Below given document summarizes the most critical and high-severity vulnerabilities identified during the Nessus scan performed on localhost.
+
+[Key Findings/Top Vulnerabilities.md](url)
 
 ## 📚 Learning Outcomes
 

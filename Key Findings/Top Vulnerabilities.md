@@ -4,7 +4,7 @@
 This document summarizes the most critical and high-severity vulnerabilities identified during the Nessus scan performed on localhost.
 
 
-1.🔴 **Node.js Multiple Vulnerabilities** (CVE-2023-46809, CVE-2024-21890, CVE-2024-21891, CVE-2024-21892, CVE-2024-21896, CVE-2024-22017, CVE-2024-22019)
+🔴1. **Node.js Multiple Vulnerabilities** (CVE-2023-46809, CVE-2024-21890, CVE-2024-21891, CVE-2024-21892, CVE-2024-21896, CVE-2024-22017, CVE-2024-22019)
  
    **Plugin ID:** 190856
    
@@ -19,7 +19,7 @@ This document summarizes the most critical and high-severity vulnerabilities ide
 
 ---
 
-2.🔴 **Node.js Multiple Vulnerabilities** (CVE-2025-27209, CVE-2025-27210)
+🔴2. **Node.js Multiple Vulnerabilities** (CVE-2025-27209, CVE-2025-27210)
    
    **Plugin ID:** 242134
    
@@ -33,7 +33,7 @@ This document summarizes the most critical and high-severity vulnerabilities ide
 
 ---
 
-3.🟠 **Node.js Multiple Vulnerabilities** (CVE-2024-22018, CVE-2024-22020, CVE-2024-27980, CVE-2024-36137, CVE-2024-37372)
+🟠3. **Node.js Multiple Vulnerabilities** (CVE-2024-22018, CVE-2024-22020, CVE-2024-27980, CVE-2024-36137, CVE-2024-37372)
    
    **Plugin ID:** 201969
    
@@ -47,7 +47,7 @@ This document summarizes the most critical and high-severity vulnerabilities ide
 
 ---
 
-4.🟠 **SQLite Multiple Vulnerabilities** (CVE-2025-3277, CVE-2025-29087)
+🟠4. **SQLite Multiple Vulnerabilities** (CVE-2025-3277, CVE-2025-29087)
    
    **Plugin ID:** 240237
    

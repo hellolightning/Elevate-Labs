@@ -34,7 +34,9 @@ System: Kali Linux (192.168.37.130)
    
 ![3 Set Default policy](https://github.com/user-attachments/assets/d1841af7-3c88-48da-9f9b-97e7da5d7234)
 
-8. Test firewall rules :
+8. Test firewall rules.
+   
+9. Remove the test block rule to restore original state.
  
 ## End Result
 

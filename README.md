@@ -1,4 +1,4 @@
-# Basic Vulnerabilty Scan on Local network
+# 🛡️ Basic Vulnerabilty Scan on Local network
 
 ## 🎯 Objectives
 
@@ -95,3 +95,7 @@ Integration with automated remediation tools
 Continuous monitoring implementation
 
 Advanced threat modeling exercises
+
+## Conclusion:
+
+This project showcases a full vulnerability assessment of a local system using Nessus Essentials on Kali Linux. It successfully identifies, categorizes, and documents critical security issues while suggesting remediation strategies. The task highlights practical skills in scanning, analysis, and professional reporting, strengthening real-world cybersecurity expertise

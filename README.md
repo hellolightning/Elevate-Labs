@@ -6,9 +6,9 @@ Obtain a real phishing‑style email sample and analyze it to identify key indic
 
 ## 🛠️ Tools Used
 
-Kali Linux
+. Kali Linux
 
-Online Email Header Analyzer (mxtoolbox)
+. Online Email Header Analyzer (mxtoolbox)
 
 ## Source of Sample Phishing Email
 The sample phishing email used in this task was downloaded from the following open-source repository:

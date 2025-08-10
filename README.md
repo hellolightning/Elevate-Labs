@@ -20,33 +20,33 @@ Kali Linux: Target system for vulnerability assessment
 
 ### Phase 1: Environment Setup
 
-Installed Nessus Essentials on assessment system
+. Installed Nessus Essentials on assessment system
 
-Configured scan target (192.168.x.x - Kali Linux)
+. Configured scan target (192.168.x.x - Kali Linux)
 
-Verified network connectivity and service accessibility
+. Verified network connectivity and service accessibility
 
 
 ### Phase 2: Vulnerability Scanning
 
-Executed comprehensive vulnerability scan using Nessus
+. Executed comprehensive vulnerability scan using Nessus
 
-Targeted localhost/local machine IP address
+. Targeted localhost/local machine IP address
 
-Performed full system assessment (30-60 minute duration)
+. Performed full system assessment (30-60 minute duration)
 
-Generated detailed vulnerability report
+. Generated detailed vulnerability report
 
 
 ### Phase 3: Analysis and Documentation
 
-Analyzed scan results for critical vulnerabilities
+. Analyzed scan results for critical vulnerabilities
 
-Categorized findings by severity level
+. Categorized findings by severity level
 
-Researched remediation strategies
+. Researched remediation strategies
 
-Documented comprehensive assessment report
+. Documented comprehensive assessment report
 
 ## Screenshot
 
@@ -93,8 +93,6 @@ Understood risk prioritization based on severity.
 Integration with automated remediation tools
 
 Continuous monitoring implementation
-
-Advanced threat modeling exercises
 
 ## Conclusion:
 

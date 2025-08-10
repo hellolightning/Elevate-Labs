@@ -7,11 +7,11 @@ To discover open ports on devices within the local network using Nmap, and optio
 
 ## 🛠️ Tools Used:
 
-Kali Linux.
+. Kali Linux.
 
-Nmap- Free, powerful network scanning tool.
+. Nmap- Free, powerful network scanning tool.
 
-Wireshark-  For capturing and analyzing network traffic.
+. Wireshark-  For capturing and analyzing network traffic.
 
 
 ### 🔧 Command Used:

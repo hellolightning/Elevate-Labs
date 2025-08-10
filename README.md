@@ -1,6 +1,6 @@
 # 🛡️ Basic Vulnerabilty Scan on Local network
 
-## 🎯 Objectives
+##  Objectives
 
  . Perform a comprehensive vulnerability scan on a local system
  

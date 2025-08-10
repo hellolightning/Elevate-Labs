@@ -87,4 +87,6 @@ The implementation demonstrates:
 
 - Monitoring and testing – UFW allows logging of firewall activity, letting you observe how traffic is being handled, and you can test rules to confirm they're working, then fine-tune or remove test rules based on results.
 
-  
+## Conclusion:
+
+This project demonstrates configuring and testing UFW on Kali Linux to control network traffic securely. It applies best practices like default-deny policies, blocking insecure ports, and allowing only necessary services (SSH). Logging and startup automation ensure continuous protection, while testing and rule management highlight responsible firewall administration.

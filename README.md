@@ -4,9 +4,9 @@ This repository provides a report of comprehensive analysis of the UFW (Uncompli
 
 ## Objective: 
 
-Configure and test basic firewall rules using UFW to control network traffic flow
+. Configure and test basic firewall rules using UFW to control network traffic flow
 
-System: Kali Linux (192.168.37.130)
+. System: Kali Linux (192.168.37.130)
 
 ## Step-by-step Process:
 
@@ -46,33 +46,19 @@ System: Kali Linux (192.168.37.130)
 
 ### Threat Mitigation Achieved:
 
-Default-deny incoming policy blocks unsolicited inbound traffic, reducing the attack surface.
+. Default-deny incoming policy blocks unsolicited inbound traffic, reducing the attack surface.
 
-Denying Telnet (port 23) prevents exploitation of this insecure, outdated protocol.
+. Denying Telnet (port 23) prevents exploitation of this insecure, outdated protocol.
 
-Allow-listing SSH ensures only necessary remote access is permitted while other services remain blocked.
+. Allow-listing SSH ensures only necessary remote access is permitted while other services remain blocked.
 
 ### Operational Considerations: 
 
-Controlled traffic flow—only necessary services permitted, simplifying monitoring and auditing.
+. Controlled traffic flow—only necessary services permitted, simplifying monitoring and auditing.
 
-Improved visibility via logging—with ufw logging on, administrators can monitor, detect and respond to anomalies activity effectively.
+. Improved visibility via logging—with ufw logging on, administrators can monitor, detect and respond to anomalies activity effectively.
 
-Automatic startup on boot—using systemctl enable ufw, ensures firewall protection always boots up, improving consistency.
-
-## Best Practices Demonstrated 
-
-### Configuration Management:
-
-Explicit default policies defined—‘deny incoming’ and ‘allow outgoing’ establish a clear baseline.
-
-Managed rule additions/removals—the flow includes both applying and later removing test rules, showing responsible rule lifecycle.
-
-### Security Principles Applied:
-
-Principle of least privilege—only essential ports (SSH) are allowed, everything else is denied by default.
-
-Defense in depth—UFW adds a layer of protection even if other services lack hardening.
+. Automatic startup on boot—using systemctl enable ufw, ensures firewall protection always boots up, improving consistency.
 
 ## Technical Deep Dive 
 
@@ -82,6 +68,8 @@ UFW operates as a frontend to iptables, providing simplified rule management whi
 The implementation demonstrates:
 
 - Rule configuration – You define firewall behavior by setting default rules (e.g., deny incoming, allow outgoing), then add targeted rules such as denying specific ports (e.g., Telnet port 23) and allowing services like SSH (port 22).
+
+- Managed rule additions/removals—the flow includes both applying and later removing test rules, showing responsible rule lifecycle.
 
 - Persistence & Startup: UFW can be enabled to start automatically on boot (e.g., 1``sudo systemctl enable ufw``), ensuring firewall rules remain active after restarts.
 

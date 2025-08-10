@@ -1,4 +1,4 @@
-# Basic Firewall Management
+# 🛡️ Basic Firewall Management
 
 This repository provides a report of comprehensive analysis of the UFW (Uncomplicated Firewall) setup and configuration performed on a Kali Linux system, demonstrating practical network security implementation and testing.
 

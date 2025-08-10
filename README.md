@@ -1,18 +1,16 @@
-# Phishing Email Analysis Report
+# 🛡️ Phishing Email Analysis Report
 
-# 🔍 Task Objectives
+## Task Objectives
 
 Obtain a real phishing‑style email sample and analyze it to identify key indicators of phishing, including spoofed sender details, suspicious links, header discrepancies, and manipulative language tactics.
 
-# 🧪 Tools Used
+## 🛠️ Tools Used
 
 Kali Linux
 
 Online Email Header Analyzer (mxtoolbox)
 
-
-
-# Source of Sample Phishing Email
+## Source of Sample Phishing Email
 The sample phishing email used in this task was downloaded from the following open-source repository:
 
 🔗[https://github.com/rf-peixoto/phishing_pot] (Github Sample Repository)
@@ -25,7 +23,7 @@ The sample phishing email used in this task was downloaded from the following op
 | Data Analyzed | 2025-08-06  |
 
 
-# Steps Taken
+## Steps Taken
 
 1. Downloaded `sample-100.eml` from an open-source repository.  
 2. Opened the sample email in Thunderbird on Kali Linux.  
@@ -39,7 +37,7 @@ The sample phishing email used in this task was downloaded from the following op
 6. Identified and summarized all indicators of phishing.  
 7. Captured screenshots of the header analysis report for documentation.
 
-# 🔎Header Analysis
+## Header Analysis
 
 | Field  | Details |
 | ------------- | ------------- |
@@ -51,7 +49,7 @@ The sample phishing email used in this task was downloaded from the following op
 | Subject | 🔋 Zonnepanelen voor een goede prijs  |
 | Date | Thu, 3 Nov 2022 04:56:15 +0000|
 
-# 📸 Screenshots
+## Screenshots
 
 Received Mail:
 
@@ -69,10 +67,10 @@ Generated report by MXheaderanaalyser:
 
 
 
-# Recommendation:
+## Recommendation:
 Do not interact with the similar mail. Mark it as phishing and report it to your IT/security team.
 
-# ⚠️ Note:
+## ⚠️ Note:
 
 This project is intended for educational and ethical use only. 
 

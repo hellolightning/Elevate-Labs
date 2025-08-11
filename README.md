@@ -9,8 +9,11 @@ Capture live network traffic using Wireshark, identify various protocols and tra
 ## 🛠️ Tools Used
 
 . Wireshark (Free network protocol analyzer)
+
 . Firefox Browser (Traffic generation)
+
 . Target: testphp.vulnweb.com (Vulnerable web application for testing)
+
 
 ## Steps :
 
@@ -57,10 +60,10 @@ Analyzed captured network traffic using Wireshark and identify network protocols
 [Identified Protocols](https://github.com/hellolightning/Elevate-Labs/blob/Task-5/Protocol%20Identified.md)
 
 
-## Key Findings:
+## 📚 Key Findings:
 
 
-## Key Learning:
+## 📚 Key Learning:
 
 . Learned how to capture and analyze real network traffic.
 

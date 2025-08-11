@@ -62,6 +62,18 @@ Analyzed captured network traffic using Wireshark and identify network protocols
 
 ## 📚 Key Findings:
 
+Critical Vulnerabilities Discovered
+
+1. Exposed Personal Data (HIGH RISK) Captured Form Data:
+   
+   Username: "networking king" , Credit Card: "1234-5678-2300-6969" 
+   
+   Email: "kali0986@email.com" , Phone: "03126709450" , Address: "USA united esate"
+
+3. Unencrypted HTTP Traffic
+  - All communications transmitted in plaintext
+  - Session cookies exposed
+  - Vulnerable to man-in-the-middle attacks
 
 ## 📚 Key Learning:
 

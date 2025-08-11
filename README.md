@@ -52,6 +52,11 @@ Summarized important observations and metadata.
 
 ## Protocol Identified:
 
+Analyzed captured network traffic using Wireshark and identify network protocols such as: ``` HTTP, DNS, TCP, ARP. ```
+
+[Identified Protocols](https://github.com/hellolightning/Elevate-Labs/blob/Task-5/Protocol%20Identified.md)
+
+
 ## Key Findings:
 
 

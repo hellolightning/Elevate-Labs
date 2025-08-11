@@ -1,4 +1,4 @@
-# Network Traffic Analysis with Wireshark
+# 🛡️ Network Traffic Analysis with Wireshark
 
 This project demonstrates network packet capture and analysis using Wireshark to identify protocols and analyse traffic patterns in a controlled environment.
 
@@ -32,9 +32,10 @@ Collected enough packets for analysis.
 
 5. Filtered Packets by Protocol
 
-Applied filters:  ``` dns ```
-                  ``` tcp ```
-                  ``` http ```
+Applied filters:
+                 ``` dns ```
+                 ``` tcp ```
+                 ``` http ```
 
 6. Identify 3+ Protocols
 
@@ -53,4 +54,13 @@ Summarized important observations and metadata.
 
 ## Key Findings:
 
+
 ## Key Learning:
+
+. Learned how to capture and analyze real network traffic.
+. Successfully identified and analyzed multiple protocols
+. Understood the role of DNS, TCP, and HTTP in day-to-day communications.
+. Forensic Analysis - Extracted sensitive data from packet captures
+. Gained hands-on experience with Wireshark’s filtering and packet inspection tools.
+
+

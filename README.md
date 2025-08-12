@@ -4,7 +4,7 @@
 
 The goal of this task is to explore the effectiveness of different password strengths, learn password creation best practices, understand how common attacks exploit weak passwords, and summarize how password complexity impacts security.
 
-## Steps Performed 
+## 📝 Steps Performed 
 
 1. Created multiple passwords with varying complexity.
    Used uppercase, lowercase, numbers, symbols, and length variations.

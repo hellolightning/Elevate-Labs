@@ -12,7 +12,10 @@ This repository contains all the tasks, projects, analyses, and documentation co
 | 2 | [Phishing Email Analysis](https://github.com/hellolightning/Elevate-Labs/tree/Task-2) | Social Engineering, Forensics | Thunderbird, MXToolbox |
 | 3 | [Basic Vulnerability Assessment ](https://github.com/hellolightning/Elevate-Labs/tree/Task-3) | Vulnerability Management | Nessus Essentials |
 | 4 | [Basic Firewall Management- UFW](https://github.com/hellolightning/Elevate-Labs/tree/Task-4)) | Network Defense, Firewall |	UFW, Kali Linux |
-| 5 | --- | --- | --- |
+| 5 | [Network Traffic Analysis with Wireshark](https://github.com/hellolightning/Elevate-Labs/tree/Task-5) | Packet Analysis, Threat Detection | Wireshark |
+| 6 | [Password Strength Evaluation & Security Best Practices](https://github.com/hellolightning/Elevate-Labs/tree/Task-6) | Password Strength | PasswordsMonster, Bitwarden |
+| 7 | --- | --- | --- |
+| 8 | --- | --- | --- |
 
 ## 📈 Key Skills Demonstrated:
 

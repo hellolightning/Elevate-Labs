@@ -99,4 +99,6 @@ This eliminates the need to remember numerous complex strings and enhances overa
 
 ## Conclusion
 
+This task demonstrated how password complexity greatly affects security, showing that longer, more varied passwords are far harder to crack. Following best practices and using unique, complex passwords with a password manager significantly improves protection against attacks.
+
 

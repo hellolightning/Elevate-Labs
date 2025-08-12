@@ -37,6 +37,10 @@ The goal of this task is to explore the effectiveness of different password stre
 | Why@Typepass&0 | Months to Years | Strong |
 | Boogie&Woggie#01 | 1 million years | Very Strong |
 
+- Password Strength Results from Bitwarden & Password Monster:
+  
+  [Results](https://github.com/hellolightning/Elevate-Labs/blob/Task-6/Results.md)
+
 ## 
 
 

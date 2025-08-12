@@ -23,5 +23,8 @@
 ### 🧠 Observation
 
 . Short/simple passwords like ```password123``` are crackable in less than a second.
+
 . Slightly complex passwords like ``` WhoAmI23 ``` may still fall in minutes.
+
 . Strong passwords with symbols, length, and randomness like ```Boogie&Woggie#01``` are virtually uncrackable.
+

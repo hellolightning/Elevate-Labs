@@ -1,6 +1,6 @@
 # 📊 Password Strength Results
 
-### Password Test Results - Bitwarden Strength Tester
+### Password Test Results - [Bitwarden Strength Tester](https://bitwarden.com/password-strength/)
 
 | Password Sample | Password Tested | Password Strength | Estimated Crack Time |
 | --- | --- | --- | --- |
@@ -10,7 +10,7 @@
 | ![Strong B](https://github.com/user-attachments/assets/fe63a2a4-ef23-47c8-91f3-15255111b3e5) | Why@Typepass&1 | Strong | 7 Years |
 | ![Very Strong B](https://github.com/user-attachments/assets/db4ab183-84d3-47fe-bb74-6b28e8674cf3) | Boogie&Woggie#01 | Strong | 73 Years |
 
-### Password Test Results - Password Monster
+### Password Test Results - [Password Monster](https://www.passwordmonster.com/)
 
 | Password Sample | Password Tested | Password Strength | Estimated Crack Time |
 | --- | --- | --- | --- |

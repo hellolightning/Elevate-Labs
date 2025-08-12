@@ -19,14 +19,15 @@ The goal of this task is to explore the effectiveness of different password stre
 
 
 2. Test each password on password strength checker.
-  
-   [How Secure Is My Password](https://www.security.org/how-secure-is-my-password/)
+
+   [Bitwarden Strength Tester](https://bitwarden.com/password-strength/)
    
    [Password Monster](https://www.passwordmonster.com/)
    
-   [Bitwarden Strength Tester](https://bitwarden.com/password-strength/)
+   [How Secure Is My Password](https://www.security.org/how-secure-is-my-password/)
    
-3. Results & Feedback
+   
+4. Results & Feedback
 
 | Password Sample | Estimated Crack Time | Tool Feedback|
 | --- | --- | --- |
@@ -40,18 +41,47 @@ The goal of this task is to explore the effectiveness of different password stre
 
 
 
-## Best Practices for Strong and Secured Passwords
+## 🔐 Best Practices for Strong and Secured Passwords
 
+### Length and Complexity:
+   
+Minimum Length: Use for at least 12-16 or more characters, longer passwords are inherently more secure.
 
+Character Variety: Include a mix of uppercase letters, lowercase letters, numbers, and special characters (e.g., !, @, #, $, %). 
 
-## Password Security Tips & Insights
+### Avoid Predictable Elements:
+ 
+No Personal Information: Do not use easily discoverable details like your name, birthdate, pet's name, or address.
 
-. Avoid using the same password everywhere.
-. Never use personal info (name, birthday, etc.)
-. Include uppercase, lowercase, numbers, and symbols
-. Avoid using dictionary words or predictable sequences
-. Use a password manager it encrypts your passwords and credentials and help you organize them securely.
-. MFA/2FA is essential for all important accounts.
+No Dictionary Words or Common Phrases: Avoid using words found in dictionaries or simple, common phrases.
+
+No Sequential or Repetitive Patterns: Steer clear of patterns like "123456,"qwerty," or "aaaaaa."
+
+### Uniqueness:
+
+Never reuse passwords across different accounts. A breach of one account could compromise all others using the same password.
+
+### Avoid Browser Autofill:
+
+Not recommended for sensitive accounts; password managers are safer.
+
+### Update Regularly: 
+
+Change passwords for sensitive accounts every few months.
+
+### Password Managers:
+
+Utilize a reputable password manager to securely generate, store, and manage unique and complex passwords for all your accounts. 
+This eliminates the need to remember numerous complex strings and enhances overall security.
+
+## 🔐 Password Security Tips & Insights
+
+- Avoid using the same password everywhere.
+- Never use personal info (name, birthday, etc.)
+- Include uppercase, lowercase, numbers, and symbols
+- Avoid using dictionary words or predictable sequences
+- Use a password manager it encrypts your passwords and credentials and help you organize them securely.
+- MFA/2FA is essential for all important accounts.
 
 ## Common Password Attacks & Defenses
 

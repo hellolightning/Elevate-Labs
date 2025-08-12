@@ -87,7 +87,7 @@ This eliminates the need to remember numerous complex strings and enhances overa
 - Use a password manager it encrypts your passwords and credentials and help you organize them securely.
 - MFA/2FA is essential for all important accounts.
 
-## Common Password Attacks & Defenses
+## 🚨 Common Password Attacks & Defenses
 
 | Attack Type	| Description |	Defense |
 | --- | --- | --- |

@@ -48,35 +48,26 @@ The goal of this task is to explore the effectiveness of different password stre
 ## 🔐 Best Practices for Strong and Secured Passwords
 
 ### Length and Complexity:
-   
-Minimum Length: Use for at least 12-16 or more characters, longer passwords are inherently more secure.
-
-Character Variety: Include a mix of uppercase letters, lowercase letters, numbers, and special characters (e.g., !, @, #, $, %). 
+- Minimum Length: Use for at least 12-16 or more characters, longer passwords are inherently more secure.
+- Character Variety: Include a mix of uppercase letters, lowercase letters, numbers, and special characters (e.g., !, @, #, $, %). 
 
 ### Avoid Predictable Elements:
- 
-No Personal Information: Do not use easily discoverable details like your name, birthdate, pet's name, or address.
-
-No Dictionary Words or Common Phrases: Avoid using words found in dictionaries or simple, common phrases.
-
-No Sequential or Repetitive Patterns: Steer clear of patterns like "123456,"qwerty," or "aaaaaa."
+- No Personal Information: Do not use easily discoverable details like your name, birthdate, pet's name, or address.
+- No Dictionary Words or Common Phrases: Avoid using words found in dictionaries or simple, common phrases.
+- No Sequential or Repetitive Patterns: Steer clear of patterns like "123456,"qwerty," or "aaaaaa."
 
 ### Uniqueness:
-
-Never reuse passwords across different accounts. A breach of one account could compromise all others using the same password.
+- Never reuse passwords across different accounts. A breach of one account could compromise all others using the same password.
 
 ### Avoid Browser Autofill:
-
-Not recommended for sensitive accounts; password managers are safer.
+- Not recommended for sensitive accounts; password managers are safer.
 
 ### Update Regularly: 
-
-Change passwords for sensitive accounts every few months.
+- Change passwords for sensitive accounts every few months.
 
 ### Password Managers:
-
-Utilize a reputable password manager to securely generate, store, and manage unique and complex passwords for all your accounts. 
-This eliminates the need to remember numerous complex strings and enhances overall security.
+- Utilize a reputable password manager to securely generate, store, and manage unique and complex passwords for all your accounts. 
+- This eliminates the need to remember numerous complex strings and enhances overall security.
 
 ## 🔐 Password Security Tips & Insights
 

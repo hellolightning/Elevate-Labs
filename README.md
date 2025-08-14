@@ -1,43 +1,56 @@
-# Elevate-Labs
+# 🛡️ Browser Extension Analysis
 
-Welcome to the official repository for my Cybersecurity Internship at Elevate Labs.
-This repository contains all the tasks, projects, analyses, and documentation completed during the internship period.
+Objective: Identify, Evaluate and Remove suspicious or unnecessary browser extensions to enhance privacy & security and optimize browser performance.
 
+## Steps
 
-## 🏆 Internship Tasks/ Projects Highlights:
+1. **Open Extension/Add-on Manager**  
+   Navigated to the browser’s extension management page.
+2. **Review Installed Extensions**  
+   Carefully checked all installed extensions for unfamiliar or unnecessary items.
+3. **Check Permissions and Reviews**  
+   Inspected each extension’s permissions and read recent user reviews for red flags.
+4. **Identify Unused or Suspicious Extensions**  
+   Flagged any extension that was unused, unfamiliar, or had excessive permissions.
+5. **Remove Suspicious/Unnecessary Extensions**  
+   Uninstalled any extension that was not needed or appeared suspicious.
+6. **Restart Browser**  
+   Restarted the browser to ensure all changes took effect.
+7. **Check Performance**  
+   Observed browser performance for any improvements.
+8. **Research Extension Safety**  
+   Investigated how malicious extensions can impact security and privacy.
+9. **Document Findings**  
+   Recorded all steps, findings, and recommendations in this report.
 
-| No. | Task / Project Title | Focus Area | Key Tools |
-| --- | --- | --- | --- |
-| 1 | [Local Network Port Scan](https://github.com/hellolightning/Elevate-Labs/tree/Task-1) | Network Scanning, Reconnaissance | Nmap, Wireshark |
-| 2 | [Phishing Email Analysis](https://github.com/hellolightning/Elevate-Labs/tree/Task-2) | Social Engineering, Forensics | Thunderbird, MXToolbox |
-| 3 | [Basic Vulnerability Assessment ](https://github.com/hellolightning/Elevate-Labs/tree/Task-3) | Vulnerability Management | Nessus Essentials |
-| 4 | [Basic Firewall Management- UFW](https://github.com/hellolightning/Elevate-Labs/tree/Task-4)) | Network Defense, Firewall |	UFW, Kali Linux |
-| 5 | [Network Traffic Analysis with Wireshark](https://github.com/hellolightning/Elevate-Labs/tree/Task-5) | Packet Analysis, Threat Detection | Wireshark |
-| 6 | [Password Strength Evaluation & Security Best Practices](https://github.com/hellolightning/Elevate-Labs/tree/Task-6) | Password Strength | PasswordsMonster, Bitwarden |
-| 7 | --- | --- | --- |
-| 8 | --- | --- | --- |
+## Installed extensions
 
-## 📈 Key Skills Demonstrated:
+![Installed Ext](https://github.com/user-attachments/assets/96af1192-fac8-4a7d-b78b-095977024ce2)
 
-. Network Scanning & Packet Analysis
+## 📌 Extensions Evaluated
 
-. Vulnerability Assessment & Remediation
+| Extension         | Status       | Reason                                                                 |
+|------------------|--------------|------------------------------------------------------------------------|
+| **Bitwarden Password Manager**  | ✅ Safe | Reputable dev; used for tech stack detection; minimal permissions. |
+| **Free Vpn for Edge** | ✅ Safe | Official archive.org tool; safe permissions; Good reviews. |
+| **McAfee WebAdvisor** | ✅ Safe | |
+| **TeraBox** | ⚠️ Caution | Limited info on publisher; check for unnecessary permissions. |
 
-. Firewall Configuration
+## How Malicious Extensions Harm Users
 
-. Technical Documentation & Reporting
+- **Steal sensitive data:** Usernames, passwords, credit cards, browsing history.
+- Extensions can act as a gateway for malware, including spyware, ransomware, and remote access trojans
+- **Install malware or spyware:** Operates in the background, often undetected.
+- **Hijack accounts or sessions:** Uses cookies and tokens to take over online accounts.
+- **Performance issues:** Consumes system resources, slows browser/computer.
 
+## Recommendations
 
-### 🛠️ Tools & Platforms
+- Limit extension use: Only install what you truly need.
+- Check permissions: Be wary of extensions requesting broad access.
+- Keep extensions updated: Get the latest security patches.
+- Regularly review and remove unused extensions.
 
-
-. Kali Linux . Wireshark . Nmap
-. Nessus . MXToolbox . Git & GitHub
-
-
-### 🧠 Author
-
-Yash Jadhav
-Cybersecurity Enthusiast | Intern @ Elevate Labs
+  Regular auditing minimizes attack surface and enhances privacy.
 
 

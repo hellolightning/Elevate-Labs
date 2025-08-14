@@ -13,22 +13,24 @@ Identified and Evaluate all browser extensions to enhance privacy & security and
 
 
 ##  Actions Taken
+
 ❗ No extensions removed at this time, but **TeraBox Dowload** flagged for future evaluation.
+
 ✅ Allowed only essential extensions.
 
 ## Research Summary
 
 **Malicious extensions can:**
 
-. Steal sensitive data: Usernames, passwords, credit cards, browsing history
-. Log keystrokes
-. Install malware or spyware: Operates in the background, often undetected
-. Monitor private activity via excessive permissions
-. Consumes system resources and slows browser/computer
+- Steal sensitive data: Usernames, passwords, credit cards, browsing history
+- Log keystrokes
+- Install malware or spyware: Operates in the background, often undetected
+- Monitor private activity via excessive permissions
+- Consumes system resources and slows browser/computer
 
 
 **Best Practices**
 
-Disable or remove unused extensions
-Don’t allow private window access unless necessary
-Keep extensions updated: Get the latest security updates/patches.
+- Disable or remove unused extensions
+- Don’t allow private window access unless necessary
+- Keep extensions updated: Get the latest security updates/patches.

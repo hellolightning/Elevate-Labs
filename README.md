@@ -1,10 +1,11 @@
 # 🛡️ Browser Extension Analysis
 
-Objective: Identify, Evaluate and Remove suspicious or unnecessary browser extensions to enhance privacy & security and optimize browser performance.
+## Objective: 
+Identify, Evaluate and Remove suspicious or unnecessary browser extensions to enhance privacy & security and optimize browser performance.
 
 ## Steps
 
-1. **Open Extension/Add-on Manager**  
+1. **Open Extension**  
    Navigated to the browser’s extension management page.
 2. **Review Installed Extensions**  
    Carefully checked all installed extensions for unfamiliar or unnecessary items.
@@ -29,12 +30,12 @@ Objective: Identify, Evaluate and Remove suspicious or unnecessary browser exten
 
 ## 📌 Extensions Evaluated
 
-| Extension         | Status       | Reason                                                                 |
-|------------------|--------------|------------------------------------------------------------------------|
-| **Bitwarden Password Manager**  | ✅ Safe | Reputable dev; used for tech stack detection; minimal permissions. |
-| **Free Vpn for Edge** | ✅ Safe | Official archive.org tool; safe permissions; Good reviews. |
-| **McAfee WebAdvisor** | ✅ Safe | |
-| **TeraBox** | ⚠️ Caution | Limited info on publisher; check for unnecessary permissions. |
+| Extension         | Status       | Reason        |
+|---------------------|--------------------------|--------------|
+| **Bitwarden Password Manager**  | ✅ Safe | Open-source, highly reputable, end-to-end encrypted password manager with transparent security practices. |
+| **Free Vpn for Edge** | ✅ Safe | Provides encrypted browsing; verify publisher authenticity but generally minimal reported security issues. |
+| **McAfee WebAdvisor** | ✅ Safe | Developed by trusted cybersecurity company; warns about malicious sites and downloads. |
+| **TeraBox** | ⚠️ Caution | Offers free cloud storage; privacy concerns and unclear data handling policies. |
 
 ## How Malicious Extensions Harm Users
 

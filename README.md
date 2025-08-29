@@ -14,8 +14,8 @@ This repository contains all the tasks, projects, analyses, and documentation co
 | 4 | [Basic Firewall Management- UFW](https://github.com/hellolightning/Elevate-Labs/tree/Task-4)) | Network Defense, Firewall |	UFW, Kali Linux |
 | 5 | [Network Traffic Analysis with Wireshark](https://github.com/hellolightning/Elevate-Labs/tree/Task-5) | Packet Analysis, Threat Detection | Wireshark |
 | 6 | [Password Strength Evaluation & Security Best Practices](https://github.com/hellolightning/Elevate-Labs/tree/Task-6) | Password Strength | PasswordsMonster, Bitwarden |
-| 7 | --- | --- | --- |
-| 8 | --- | --- | --- |
+| 7 | [Browser Extension Analysis](https://github.com/hellolightning/Elevate-Labs/tree/Task-7) | Privacy | Edge, Chrome |
+| 8 | [VPN Privacy & Security](https://github.com/hellolightning/Elevate-Labs/tree/Task-8) | Privacy, Secure Communications | --- |
 
 ## 📈 Key Skills Demonstrated:
 
@@ -27,11 +27,16 @@ This repository contains all the tasks, projects, analyses, and documentation co
 
 . Technical Documentation & Reporting
 
+. Secure Authentication & Password Management
+
+. Endpoint Security & Privacy Auditing
+
+. VPN Setup & Evaluation
 
 ### 🛠️ Tools & Platforms
 
 
-. Kali Linux . Wireshark . Nmap
+. Kali Linux . Wireshark . Nmap . Python
 . Nessus . MXToolbox . Git & GitHub
 
 

@@ -1,43 +1,40 @@
-# Elevate-Labs
+# 🛡️ VPN Benefits and Limitations
 
-Welcome to the official repository for my Cybersecurity Internship at Elevate Labs.
-This repository contains all the tasks, projects, analyses, and documentation completed during the internship period.
+## ✅ Task Overview
+This task involves understanding and analyzing the purpose, benefits, and limitations of using a Virtual Private Network (VPN).
 
+### Steps Followed:
+1. Chose a free reputable VPN (e.g., ProtonVPN / Windscribe).
+2. Signed up and installed the VPN client.
+3. Connected to a nearby VPN server.
+4. Verified changed IP address via [whatismyipaddress.com](https://www.whatismyipaddress.com).
+5. Browsed websites to confirm encrypted traffic.
+6. Disconnected and compared browsing speed and IP.
+7. Researched VPN encryption & privacy features.
 
-## 🏆 Internship Tasks/ Projects Highlights:
+---
 
-| No. | Task / Project Title | Focus Area | Key Tools |
-| --- | --- | --- | --- |
-| 1 | [Local Network Port Scan](https://github.com/hellolightning/Elevate-Labs/tree/Task-1) | Network Scanning, Reconnaissance | Nmap, Wireshark |
-| 2 | [Phishing Email Analysis](https://github.com/hellolightning/Elevate-Labs/tree/Task-2) | Social Engineering, Forensics | Thunderbird, MXToolbox |
-| 3 | [Basic Vulnerability Assessment ](https://github.com/hellolightning/Elevate-Labs/tree/Task-3) | Vulnerability Management | Nessus Essentials |
-| 4 | [Basic Firewall Management- UFW](https://github.com/hellolightning/Elevate-Labs/tree/Task-4)) | Network Defense, Firewall |	UFW, Kali Linux |
-| 5 | [Network Traffic Analysis with Wireshark](https://github.com/hellolightning/Elevate-Labs/tree/Task-5) | Packet Analysis, Threat Detection | Wireshark |
-| 6 | [Password Strength Evaluation & Security Best Practices](https://github.com/hellolightning/Elevate-Labs/tree/Task-6) | Password Strength | PasswordsMonster, Bitwarden |
-| 7 | --- | --- | --- |
-| 8 | --- | --- | --- |
+## VPN Benefits
 
-## 📈 Key Skills Demonstrated:
+- **Online Privacy**: Hides your IP and location.
+- **Data Encryption**: Secures your data with protocols like AES-256.
+- **Bypass Restrictions**: Access content blocked by region or network.
+- **Public Wi-Fi Safety**: Shields you from MITM attacks on public networks.
+- **Anonymity**: Prevents websites and ISPs from tracking your browsing behavior.
 
-. Network Scanning & Packet Analysis
+---
 
-. Vulnerability Assessment & Remediation
+## VPN Limitations
 
-. Firewall Configuration
+- **Speed Drops**: Due to server distance and encryption overhead.
+- **Limited Access on Free VPNs**: Fewer servers, lower bandwidth, and slower speeds.
+- **Trust Factor**: Some VPNs may log data or sell user information.
+- **Not Foolproof**: Doesn’t protect from phishing, malware, or cookies tracking.
 
-. Technical Documentation & Reporting
+---
 
+## Conclusion
 
-### 🛠️ Tools & Platforms
+VPNs are powerful tools for enhancing security and privacy, especially on unsecured networks. However, one must choose a reputable provider and understand the limitations. 
 
-
-. Kali Linux . Wireshark . Nmap
-. Nessus . MXToolbox . Git & GitHub
-
-
-### 🧠 Author
-
-Yash Jadhav
-Cybersecurity Enthusiast | Intern @ Elevate Labs
-
-
+They are a **layer of protection**, not a complete solution for online anonymity.

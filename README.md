@@ -16,6 +16,7 @@ This repository contains all the tasks, projects, analyses, and documentation co
 | 6 | [Password Strength Evaluation & Security Best Practices](https://github.com/hellolightning/Elevate-Labs/tree/Task-6) | Password Strength | PasswordsMonster, Bitwarden |
 | 7 | [Browser Extension Analysis](https://github.com/hellolightning/Elevate-Labs/tree/Task-7) | Privacy | Edge, Chrome |
 | 8 | [VPN Privacy & Security](https://github.com/hellolightning/Elevate-Labs/tree/Task-8) | Privacy, Secure Communications | --- |
+| P | [Steganography Tool for Image/File Hiding](https://github.com/hellolightning/Elevate-Labs/tree/Project) | Privacy, Confidentiality | Python |
 
 ## 📈 Key Skills Demonstrated:
 

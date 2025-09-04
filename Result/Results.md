@@ -1,45 +1,40 @@
-# 🛡️ VPN Benefits and Limitations 
+# 🛡️ VPN Privacy & Security Report
 
-## Task Overview
-This task involves understanding and analyzing the purpose, benefits, and limitations of using a Virtual Private Network (VPN).
+## 🎯 Objective
 
-### Steps Followed:
-1. Chose a free reputable VPN (e.g., ProtonVPN / Windscribe).
-2. Signed up and installed the VPN client.
-3. Connected to a nearby VPN server.
-4. Verified changed IP address via [whatismyipaddress.com](https://www.whatismyipaddress.com).
-5. Browsed websites to confirm encrypted traffic.
-6. Disconnected and compared browsing speed and IP.
-7. Researched VPN encryption & privacy features.
+Understand the role of VPNs in protecting privacy and securing communication by setting up a free VPN client, verifying its operation, and analyzing its impact on network speed and IP address.
 
----
+## Before vs After: Results
 
-## VPN Benefits
+### Connection Status
 
-- **Online Privacy**: Hides your IP and location.
-- **Data Encryption**: Secures your data with protocols like AES-256.
-- **Bypass Restrictions**: Access content blocked by region or network.
-- **Public Wi-Fi Safety**: Shields you from MITM attacks on public networks.
-- **Anonymity**: Prevents websites and ISPs from tracking your browsing behavior.
+| State         | Screenshot      | Description                                     |
+|---------------|----------------|-------------------------------------------------|
+| **Before VPN**  | ![Before VPN Connection](bcnt.png) | Not connected, real IP/location visible.        |
+| **After VPN**   | ![After VPN Connection](acnt.png)  | Connected to Japan server, new VPN IP assigned. |
 
 ---
 
-## VPN Limitations
+###  IP Address Change
 
-- **Speed Drops**: Due to server distance and encryption overhead.
-- **Limited Access on Free VPNs**: Fewer servers, lower bandwidth, and slower speeds.
-- **Trust Factor**: Some VPNs may log data or sell user information.
-- **Not Foolproof**: Doesn’t protect from phishing, malware, or cookies tracking.
+- **Before VPN:**  
+  - IP: `117.254.x.x`  
+  - Location: India
 
----
+- **After VPN:**  
+  - IP: `37.19.205.211`  
+  - Location: Japan
 
-## Conclusion
-
-VPNs are powerful tools for enhancing security and privacy, especially on unsecured networks. 
-
-However, one must choose a reputable provider and understand the limitations. 
-
-They are a **layer of protection**, not a complete solution for online anonymity.
+- **Result:**  
+  IP address and visible location changed, confirming VPN is masking real identity and encrypting traffic.
+  ![ver](ver.png)
 
 ---
 
+# 🏁 Conclusion
+
+Setting up and using ProtonVPN successfully demonstrated how VPNs encrypt internet traffic, mask real IP addresses, and protect privacy online.
+
+VPNs are a crucial tool for privacy-conscious users, but they are not a complete solution for all online threats.
+
+---

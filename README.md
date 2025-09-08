@@ -1,48 +1,68 @@
-# Elevate-Labs
+# 🛡️ STEGANOGRAPHY TOOL FOR IMAGE/FILE HIDING
 
-Welcome to the official repository for my Cybersecurity Internship at Elevate Labs.
-This repository contains all the tasks, projects, analyses, and documentation completed during the internship period.
+## INTRODUCTION
+This Python-based tool allows users to hide and extract text messages within images using steganography.  
+It employs the Least Significant Bit (LSB) technique to embed data without altering the image’s appearance.  
+The GUI is built with Tkinter and supports PNG, BMP, and JPEG formats.
+
+---
+
+## FEATURES
+- Hide text messages in images.  
+- Extract hidden text from images.  
+- Supports multiple image formats (PNG, BMP, JPEG).  
+- Easy-to-use graphical interface with drag-and-drop functionality.
+
+## PROJECT PHASE
+- Phase 1: GUI Design and Architecture
+- Phase 2: Image Processing Implementation
+- Phase 3: Steganography Algorithm Development
+- Phase 4: User Interface Enhancement
+- Phase 5: Testing and Validation
+
+## STEPS INVOLVED IN BUILDING THE PROJECT
+
+- Step 1: Environment Setup and Library Installation
+The project began with setting up the Python development environment and installing necessary libraries.
+The PIL library was installed for image processing capabilities, while Tkinter provided the foundation for the graphical user interface.
+- Step 2: GUI Design and Layout Creation
+A modern, dark-themed interface was designed with three main sections: image upload panel on the left, text hiding section on the right-top, and message extraction section on the right-bottom.
+Custom styling was applied to create an attractive and professional appearance.
+- Step 3: Image Upload and Display Functionality
+The image upload feature was implemented using file dialog boxes to allow users to select images from their system.
+Image preview functionality was added to display thumbnails of selected images within the application interface.
+- Step 4: Text-to-Binary Conversion System
+A robust text-to-binary conversion system was developed to transform user messages into binary format.
+This includes proper handling of character encoding and the addition of end delimiters to mark message boundaries.
+- Step 5: LSB Steganography Implementation
+The core steganography algorithm was implemented using the Least Significant Bit technique.
+ This involves modifying the last bit of each color channel (RGB) in image pixels to embed the binary message data while maintaining visual integrity.
+- Step 6: Message Hiding Functionality
+The hide message feature was developed to take user input text, convert it to binary, and embed it within the selected image using LSB modification.
+ The system includes error handling for oversized messages and file saving capabilities.
+- Step 7: Message Extraction Algorithm
+The extraction functionality was implemented to reverse the hiding process by reading LSB values from image pixels, reconstructing the binary message, and converting it back to readable text format.
+- Step 8: Testing and Error Handling
+Comprehensive testing was conducted to ensure reliability across different image formats and message sizes.
+ Error handling mechanisms were implemented to manage file operations, image processing errors, and user input validation
+
+## RESULTS
+
+### Stegnogrpahy Tool Tab
 
 
-## 🏆 Internship Tasks/ Projects Highlights:
+## KEY ACHIEVEMENTS
 
-| No. | Task / Project Title | Focus Area | Key Tools |
-| --- | --- | --- | --- |
-| 1 | [Local Network Port Scan](https://github.com/hellolightning/Elevate-Labs/tree/Task-1) | Network Scanning, Reconnaissance | Nmap, Wireshark |
-| 2 | [Phishing Email Analysis](https://github.com/hellolightning/Elevate-Labs/tree/Task-2) | Social Engineering, Forensics | Thunderbird, MXToolbox |
-| 3 | [Basic Vulnerability Assessment ](https://github.com/hellolightning/Elevate-Labs/tree/Task-3) | Vulnerability Management | Nessus Essentials |
-| 4 | [Basic Firewall Management- UFW](https://github.com/hellolightning/Elevate-Labs/tree/Task-4)) | Network Defense, Firewall |	UFW, Kali Linux |
-| 5 | [Network Traffic Analysis with Wireshark](https://github.com/hellolightning/Elevate-Labs/tree/Task-5) | Packet Analysis, Threat Detection | Wireshark |
-| 6 | [Password Strength Evaluation & Security Best Practices](https://github.com/hellolightning/Elevate-Labs/tree/Task-6) | Password Strength | PasswordsMonster, Bitwarden |
-| 7 | [Browser Extension Analysis](https://github.com/hellolightning/Elevate-Labs/tree/Task-7) | Privacy | Edge, Chrome |
-| 8 | [VPN Privacy & Security](https://github.com/hellolightning/Elevate-Labs/tree/Task-8) | Privacy, Secure Communications | --- |
+Successful Implementation: Developed a fully functional steganography tool with both hiding and extraction capabilities using the LSB technique.
+User-Friendly Interface: Created an intuitive GUI with modern styling, drag-and-drop functionality, and clear visual feedback for all operations.
+Multi-Format Support: Implemented support for various image formats including PNG, BMP, and JPEG with automatic format handling.
+Robust Error Handling: Integrated comprehensive error handling for file operations, image processing, and user input validation ensuring stable operation.
 
-## 📈 Key Skills Demonstrated:
+## FUTURE ENHANCEMENTS
 
-. Network Scanning & Packet Analysis
+Advanced Encryption Integration: Implement AES or RSA encryption for the hidden messages to add an additional layer of security beyond simple hiding.
+Multiple File Format Support: Extend the tool to hide various file types (documents, images, audio) within cover images, not just text messages.
+Steganographic Analysis Features: Add detection capabilities to analyze images for potential hidden content and measure steganographic capacity of different images.
 
-. Vulnerability Assessment & Remediation
-
-. Firewall Configuration
-
-. Technical Documentation & Reporting
-
-. Secure Authentication & Password Management
-
-. Endpoint Security & Privacy Auditing
-
-. VPN Setup & Evaluation
-
-### 🛠️ Tools & Platforms
-
-
-. Kali Linux . Wireshark . Nmap . Python
-. Nessus . MXToolbox . Git & GitHub
-
-
-### 🧠 Author
-
-Yash Jadhav
-Cybersecurity Enthusiast | Intern @ Elevate Labs
-
-
+### Security Note:
+This tool is developed strictly for educational and learning purposes to demonstrate steganography concepts. It should not be used for malicious or unauthorized data hiding.
